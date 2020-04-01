@@ -1,6 +1,9 @@
 .bg-black{
 background-color: black;
 }
+.btn-pink{
+  background-color: #FF3565;
+}
 
 .fa-play-circle{
   color : #FF3565;

@@ -1,9 +1,15 @@
 .bg-black{
 background-color: black;
 }
+
 .btn-pink{
   background-color: #FF3565;
+  color:white;
 }
+.btn-pink:hover{
+  opacity : 0.8;
+}
+
 
 .fa-play-circle{
   color : #FF3565;

@@ -9,5 +9,8 @@ background-color: black;
 .widget-title{
   border-left: 8px #FF3565 solid;
   opacity : 0.8;
-  
+}
+
+.card{
+  background-color: black;
 }

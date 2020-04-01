@@ -5,3 +5,8 @@ background-color: black;
 .fa-play-circle{
   color : #FF3565;
 }
+
+.widget-title{
+  border-left: 8px #FF3565 solid;
+  
+}

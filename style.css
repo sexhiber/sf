@@ -19,6 +19,9 @@ background-color: black;
   border-left: 8px #FF3565 solid;
   opacity : 0.8;
 }
+.opacity08{
+  opacity : 0.8;
+}
 
 .card{
   background-color: black;

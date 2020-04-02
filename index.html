@@ -213,7 +213,12 @@ let bt=document.getElementById("bt");
    // alert(chaine);
     //alert(2);
   }
-  bt.addEventListener("click",bouton,false);
+    function repeter(element){
+      element.addEventListener("click",bouton,false);
+    }
+  
+    
+    document.querySelectorAll('.myclass').forEach(repeter)
 </script>
 
 

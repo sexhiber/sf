@@ -29,7 +29,9 @@ background-color: black;
  img.card-img-top {
     cursor: pointer;
 }
-
+img.card-img-top:hover {
+    opacity: 0.5;
+}
 
 .text-petit{
   font-size : 1.2rem;
